@@ -26,4 +26,4 @@ Some samples I found and have added a personal repo.
 
 https://gist.github.com/mehmetcakmaz
 
-test
+Testing git auth
